@@ -1,0 +1,17 @@
+{
+  "name": "javascript-concepts",
+  "version": "1.0.0",
+  "description": "js related stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Saurabh Patni",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.6",
+    "@babel/preset-typescript": "^7.23.3",
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0"
+  }
+}
